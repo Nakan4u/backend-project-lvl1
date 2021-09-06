@@ -1,7 +1,9 @@
 # Makefile
-install: # разворачивание и запуск
+install:
 	npm ci
-brain-games: # start the app
+brain-games:
 	node bin/brain-games.js
 publish:
 	npm publish --dry-run
+lint:
+	npx eslint .
