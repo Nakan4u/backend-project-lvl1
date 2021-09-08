@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 import readlineSync from 'readline-sync';
-import { getRandomNumber } from '../utils.js';
-import playGame, { checkQuestion } from '../cli.js';
+import playGame, { checkQuestion, getRandomNumber } from '../cli.js';
 
 const calcTwoNumbers = (num1, num2, operator = '*') => {
   if (operator === '+') {

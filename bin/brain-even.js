@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 import readlineSync from 'readline-sync';
 
-import playGame, { checkQuestion } from '../cli.js';
-import { getRandomNumber } from '../utils.js';
+import playGame, { checkQuestion, getRandomNumber } from '../cli.js';
 
 const isEven = (number) => number % 2 === 0;
 
