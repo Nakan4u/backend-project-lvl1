@@ -5,3 +5,5 @@
 [![asciicast](https://asciinema.org/a/434526.svg)](https://asciinema.org/a/434526)
 ## Brain-calc game video link:
 [![asciicast](https://asciinema.org/a/dINfFpB2XvElAO7GxCJTKTiYe.svg)](https://asciinema.org/a/dINfFpB2XvElAO7GxCJTKTiYe)
+## Brain-gcd game video link:
+[![asciicast](https://asciinema.org/a/tiS3yDUm1Idr5iEKQSBHH60yA.svg)](https://asciinema.org/a/tiS3yDUm1Idr5iEKQSBHH60yA)
