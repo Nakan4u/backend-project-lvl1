@@ -23,7 +23,7 @@ export const getQuestion = () => {
   const correctResult = progression[hidenNumberIndex];
   const progressionWithHidenNum = [...progression];
   progressionWithHidenNum[hidenNumberIndex] = '..';
-  const answer = readlineSync.question(`Question: ${progressionWithHidenNum}\n`);
+  const answer = readlineSync.question(`Question: ${progressionWithHidenNum.join(' ')}\n`);
 
   return checkQuestion(+answer, correctResult);
 };
