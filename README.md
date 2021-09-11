@@ -7,3 +7,5 @@
 [![asciicast](https://asciinema.org/a/dINfFpB2XvElAO7GxCJTKTiYe.svg)](https://asciinema.org/a/dINfFpB2XvElAO7GxCJTKTiYe)
 ## Brain-gcd game video link:
 [![asciicast](https://asciinema.org/a/tiS3yDUm1Idr5iEKQSBHH60yA.svg)](https://asciinema.org/a/tiS3yDUm1Idr5iEKQSBHH60yA)
+## Brain-progression game video link:
+[![asciicast](https://asciinema.org/a/SW0UHBTrinzqd8ntUXYeFs5oW.svg)](https://asciinema.org/a/SW0UHBTrinzqd8ntUXYeFs5oW)
